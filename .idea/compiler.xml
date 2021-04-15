@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="FLINK-HZ-NETWORK" />
+        <module name="CU_TS_COUNTBYSTRIPE" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CM_HZ_ACCESS_LOG" target="1.8" />
+      <module name="CM_HZ_COUNT_BY_STRIPE" target="1.8" />
+      <module name="CM_HZ_NETWORK" target="1.8" />
+      <module name="CM_TJ_ACCESS_LOG" target="1.8" />
+      <module name="CM_TJ_ACCESS_LOG_BACK" target="1.8" />
+      <module name="CU_LF_ACCESS_LOG" target="1.8" />
+      <module name="CU_LF_COUNT_BY_STRIPE" target="1.8" />
+      <module name="CU_LF_NETWORK" target="1.8" />
+      <module name="CU_LF_ON_OFF_HEAP" target="1.8" />
+      <module name="CU_TJ_ACCESS_LOG" target="1.8" />
+      <module name="CU_TJ_DISKBUSY" target="1.8" />
+      <module name="CU_TS_COUNT_BY_STRIPE" target="1.8" />
+      <module name="CU_TS_DISKBUSY" target="1.8" />
+      <module name="flink" target="1.8" />
+      <module name="FLINK-DISK_BUSY" target="1.8" />
+      <module name="FLINK-DISKBUSY" target="1.8" />
+      <module name="FLINK-HZ-NETWORK" target="1.8" />
+      <module name="FLINK-KAFKA" target="1.8" />
+      <module name="FLINK-NETWORK" target="1.8" />
+      <module name="FLINK-ON-OFF-HEAP" target="1.8" />
+      <module name="FLINK-TJ-DiskBusy" target="1.8" />
+      <module name="KAFKA-CONSUMER" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
